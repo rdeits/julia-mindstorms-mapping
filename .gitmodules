@@ -1,3 +1,6 @@
 [submodule "Ev3.jl"]
 	path = Ev3.jl
 	url = git@github.com:rdeits/Ev3.jl
+[submodule "Behaviors.jl"]
+	path = Behaviors.jl
+	url = git@github.com:rdeits/Behaviors.jl
