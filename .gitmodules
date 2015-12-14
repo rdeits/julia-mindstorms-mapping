@@ -4,3 +4,6 @@
 [submodule "Behaviors.jl"]
 	path = Behaviors.jl
 	url = git@github.com:rdeits/Behaviors.jl
+[submodule "MappingRobots.jl"]
+	path = MappingRobots.jl
+	url = git@github.com:rdeits/MappingRobots.jl
