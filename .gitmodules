@@ -1,0 +1,3 @@
+[submodule "Ev3.jl"]
+	path = Ev3.jl
+	url = git@github.com:rdeits/Ev3.jl
