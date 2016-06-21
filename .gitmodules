@@ -7,3 +7,6 @@
 [submodule "MappingRobots.jl"]
 	path = MappingRobots.jl
 	url = git@github.com:rdeits/MappingRobots.jl
+[submodule "StateMachineIterators.jl"]
+	path = StateMachineIterators.jl
+	url = git@github.com:rdeits/StateMachineIterators.jl.git
